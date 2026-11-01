@@ -1,0 +1,9 @@
+tv.json
+pin.txt
+.venv/
+descargas/
+*.log
+__pycache__/
+docs/sonda*.html
+docs/prueba_web.html
+docs/manifest.webapp
