@@ -7,3 +7,5 @@ __pycache__/
 docs/sonda*.html
 docs/prueba_web.html
 docs/manifest.webapp
+stop_hotel.txt
+hotel_url.txt
